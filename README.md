@@ -17,8 +17,8 @@
 
 ##
 
-![image](https://github.com/JaqueSrm/JaqueSrm/assets/130625350/de5d4892-132e-4309-a517-0a4536aed546)
-![image](https://github.com/JaqueSrm/JaqueSrm/assets/130625350/8293e166-e4c8-4532-a3ad-f3c9528f48b8)
+![image](https://github.com/JaqueSrm/JaqueSrm/assets/130625350/de5d4892-132e-4309-a517-0a4536aed546
+![image](https://github.com/JaqueSrm/JaqueSrm/assets/130625350/8293e166-e4c8-4532-a3ad-f3c9528f48b8
 ![image](https://github.com/JaqueSrm/JaqueSrm/assets/130625350/0a95c6f2-4a63-4762-9d68-d1c6df5afe4c)
 
 
